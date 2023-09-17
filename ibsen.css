@@ -28,28 +28,13 @@
   }
   tr:nth-child(even){
     background-color:greenyellow;
-  }.speech {
-    font-size:medium;
-    color:black;
+
   }
-
-  .direction:hover {
-    background-color: lightblue;
-    color: white;
+  h6:hover{
+    background-color:yellow;
+    text-shadow: 2px 2px 3px;
+    border:2px solid;
   }
-  
-  .NURSE{
-    color: plum; 
-  }
-  
-  .NORA{
-    color:green; 
-  }
-
-
-
-  
-
   
 
   
