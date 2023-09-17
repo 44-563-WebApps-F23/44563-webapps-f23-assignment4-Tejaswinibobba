@@ -1,14 +1,11 @@
   .speech {
-    font-family: Arial, sans-serif;
-    font-size: 16px;
-    color: black;
+    font-size:medium;
+    color:black;
   }
   .direction {
-    font-family: Times New Roman, serif;
-    font-size: 14px;
-    color: black;
+    font-size:large;
     background-color: lightgray;
-    transition: background-color 0.3s, color 0.3s;
+    
   }
   .direction:hover {
     background-color: lightblue;
@@ -22,6 +19,22 @@
   .NORA {
     color:blue; 
   }
+  table, th, td {
+    border:1px solid;
+    color:red;
+    text-align:center;
+    padding:1cqmax;
+    margin:1cqmax;
+  }
+  tr:nth-child(even){
+    background-color:greenyellow;
+  }
+
+
+  
+
+  
+
   
   
   
